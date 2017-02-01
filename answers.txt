@@ -1,0 +1,11 @@
+a) There are 9 commits
+
+b) .gitignore was created on Tue Jan 24 22:28:11 2017
+
+c)"git status" sees which files are visible to git while "git log" sees the date of commits
+
+d)Untracked files are those that are not part of commits in git, while unstaged files are those that have not been stored in the staging area for commits
+
+e)"git checkout" updates the working tree while "git reset" updates the index
+
+f)There is no documentation to track what the changes that have been made are
