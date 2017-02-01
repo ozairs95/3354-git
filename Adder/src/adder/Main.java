@@ -19,7 +19,8 @@ public class Main {
         {
             temp += Integer.valueOf(args[i]);
         }
-    
+   
+       
         return temp;
     }
 }
